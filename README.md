@@ -52,5 +52,5 @@ My biggest challenge was implementing the **Type Conversion and Validation** wit
 
 * **Student Name:** [Fashola Abdur Rasheed]
 * **Matric Number:** [24/56EG152]
-* **GitHub Repository:** [https://github.com/AbdurRasheed01]
+* **GitHub Repository:** [https://github.com/AbdurRasheed01/gse301-python-project]
 * **Social Media Post Link:** [https://www.linkedin.com/in/fashola-abdulrasheed]
